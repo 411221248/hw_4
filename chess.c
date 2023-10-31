@@ -89,8 +89,8 @@ int main(){
             }
         }
     }
-    printf("The white flag can be lowered:\n");
-    printInput('1');
     printf("The black flag can be lowered:\n");
+    printInput('1');
+    printf("The white flag can be lowered:\n");
     printInput('2');
 }
