@@ -16,7 +16,7 @@ int check(short y,short x,short xt,short yt,char input){
             }
             return 0;
         }
-    }
+    }return 0;
 }
 void dnext(char input,short i,short j){
     if(input=='1'){
