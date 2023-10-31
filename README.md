@@ -91,9 +91,9 @@ int main(){
             }
         }
     }
-    printf("The white flag can be lowered:\n");
+    printf("黑棋可下:\n");
     printInput('1');
-    printf("The black flag can be lowered:\n");
+    printf("白棋可下:\n");
     printInput('2');
 }
 ```
